@@ -1,0 +1,12 @@
+{
+  "name": "meteor-elastic-beanstalk",
+  "version": "0.0.1",
+  "description": "settings.json in the Elastic Beanstalk",
+  "scripts": {
+    "encode": "scripts/encode.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
